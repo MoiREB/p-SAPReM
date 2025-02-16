@@ -1,0 +1,69 @@
+Charte de Confidentialité
+
+1. Introduction
+La présente Charte de Confidentialité décrit la manière dont l'application web et mobile SAPRèM, développée pour le laboratoire de recherche de l'Université d'Orléans, collecte, utilise et protège les données des utilisateurs (participants et administrateurs).
+
+2. Données collectées
+Lors de l'inscription et de l'utilisation de l'application, nous collectons les informations suivantes :
+
+Nom et prénom
+
+Date de naissance
+
+Adresse e-mail
+
+Genre
+
+Mot de passe (crypté via Firebase Authentication)
+
+Événements du calendrier importé (si l'utilisateur active cette fonctionnalité)
+
+Réponses aux sondages
+
+3. Finalités de la collecte des données
+Les données collectées sont utilisées pour :
+
+Permettre l'authentification sécurisée des utilisateurs via Firebase Authentication
+
+Envoyer des liens vers des sondages définis par les administrateurs
+
+Adapter l'envoi des notifications de sondages en fonction des événements du calendrier de l'utilisateur
+
+Analyser les réponses aux sondages dans un cadre strictement scientifique et statistique
+
+4. Stockage et sécurité des données
+Les données des utilisateurs sont stockées de manière sécurisée via Firebase et d'autres services conformes aux normes de protection des données en vigueur. Des mesures de protection sont mises en place afin de prévenir tout accès non autorisé, modification ou perte des données.
+
+5. Partage des données
+Les données ne sont partagées qu'avec :
+
+Les administrateurs habilités du laboratoire de recherche de l'Université d'Orléans
+
+Les services de stockage et d'authentification utilisés (Firebase)
+Aucune donnée ne sera vendue ou partagée avec des tiers à des fins commerciales.
+
+6. Droits des utilisateurs
+Conformément aux réglementations en vigueur, les utilisateurs disposent des droits suivants :
+
+Accéder à leurs données personnelles
+
+Demander la modification ou la suppression de leurs données
+
+Retirer leur consentement à l'utilisation de leurs données
+
+Exporter leurs données sous un format lisible
+
+Toute demande relative à ces droits peut être adressée à l'équipe du laboratoire via [adresse e-mail de contact].
+
+7. Conservation des données
+Les données sont conservées aussi longtemps que nécessaire aux fins de recherche et d'analyse. Elles peuvent être anonymisées après la fin de l'étude.
+
+8. Modifications de la charte
+Cette charte peut être mise à jour à tout moment. Les utilisateurs seront informés de toute modification importante.
+
+9. Contact
+Pour toute question relative à la confidentialité et à la protection des données, vous pouvez nous contacter à [adresse e-mail de contact].
+
+En utilisant l'application SAPRèM, vous acceptez les termes de cette Charte de Confidentialité.
+
+Fait à Orléans, le [date de publication de la charte].
