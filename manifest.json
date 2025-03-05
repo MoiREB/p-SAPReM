@@ -1,0 +1,23 @@
+{
+    "name": "p-SAPRéM",
+    "short_name": "p-SAPRéM",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "p-SAPRéM – Interface administrateur permettant de gérer les participants aux sondages. Partagez des liens vers des sondages hébergés sur d'autres plateformes, suivez les inscriptions et analysez le taux de participation pour le laboratoire SAPRéM de l'Université d'Orléans.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
